@@ -1,4 +1,5 @@
-# lsdb.io
+# lsdb at linea 
+
 Website to serve as user interface for the LSDB.io service hosted at LIneA's datacenter. 
 
 LSDB software is developed and maintained by LINCC frameworks.
