@@ -1,0 +1,16 @@
+/* Aumentar a altura da navbar */
+.md-header {
+  height: 200px;
+}
+
+/* Centralizar conteúdo dentro da navbar */
+.md-header__inner {
+  align-items: center;
+  height: 100%;
+}
+
+/* Aumentar o tamanho do logo */
+.md-header__button.md-logo img {
+  max-height: 170px; /* Ajuste conforme necessário */
+}
+
