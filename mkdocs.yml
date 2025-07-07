@@ -1,0 +1,36 @@
+nav: 
+  - Datasets: index.md
+  - LSST DP0.2: lsst-dp0-2.md   
+  - LSST DP1: lsst-dp1.md   
+  - DES DR2: 
+      - Main: des-dr2-main.md 
+      - Y6 Gold: des-y6-gold.md 
+  -  Gaia DR3: gaia-dr3.md
+  - 2MASS: 2mass.md    
+        
+
+# site info
+site_name: "" 
+theme:
+  name: material
+  logo: images/lsdb-at-linea-horizontal.png
+  custom_dir: overrides
+  features:
+    - navigation.instant
+  palette:
+    scheme: default
+    primary: white
+    accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+extra_css:
+  - styles.css
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
