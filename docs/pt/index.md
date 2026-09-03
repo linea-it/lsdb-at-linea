@@ -39,7 +39,7 @@ Confira abaixo a tabela com o resumo dos principais catálogos disponíveis para
 | LSST DP0.1            | -                        | -                        | :material-lock:          | -                        |
 | LSST DP0.2            | -                        | :material-lock:          | :material-lock:          | -                        |
 | LSST DP1              | :material-lock:          | :material-lock:          | :material-lock:          | :material-lock:          |
-| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: |
+| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-lock:          | :material-hammer-wrench: |
 | LSST DR1-DR11         | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: |
 | MPC                   | -                        | :material-account-group: | -                        | -                        |
 | Pan-STARRS            | :material-account-group: | -                        | :material-lock:          | -                        |
@@ -77,7 +77,7 @@ Confira abaixo a tabela com o resumo dos principais conjuntos de imagens dispon�
 | LSST DP0.1                  | -                                         | :material-lock: :material-link:           | :material-lock: :material-link:      |
 | LSST DP0.2                  | :material-lock: :material-floppy:         | :material-lock: :material-link:           | :material-lock: :material-link:      |
 | LSST DP1                    | :material-lock: :material-floppy:         | :material-lock: :material-floppy:         | :material-lock: :material-link:      |
-| LSST DP2                    | :material-clock-outline: :material-floppy:| :material-clock-outline: :material-floppy:| :material-clock-outline: :material-link:|
+| LSST DP2                    | :material-hammer-wrench: :material-floppy:| :material-lock: :material-floppy:         | :material-clock-outline: :material-floppy:|
 | LSST DR1-DR11               | :material-clock-outline: :material-floppy:| :material-clock-outline: :material-floppy:| :material-clock-outline: :material-link:|
 | 2MASS colored               | :material-account-group: :material-link:  | -                                         | -                                    |
 | AllWISE                     | :material-account-group: :material-link:  | -                                         | -                                    |
