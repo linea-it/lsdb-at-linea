@@ -1,0 +1,14 @@
+---
+description: Idiomas suportados neste repositório (i18n)
+alwaysApply: true
+---
+
+# Idiomas do repositório
+
+Este projeto usa **3 idiomas**:
+
+1. **Português brasileiro (pt-BR)** — idioma padrão / default
+2. **Inglês (en)**
+3. **Espanhol LATAM (es)** — variante latino-americana, não espanhol da Espanha
+
+Ao criar ou editar textos de UI, conteúdo, mensagens, docs voltadas ao usuário ou chaves de tradução, considerar os três idiomas e manter pt-BR como default.

@@ -9,16 +9,16 @@ LIneA offers different user profiles, each with specific access levels to the av
 
 ---
 
-## Catalogs
+## [Catalogs](catalogs/index.md)
 
 Access to tabular data (catalogs) is provided through different applications of the [LIneA Science Platform (LSP)](https://scienceplatform.linea.org.br/lsp), depending on the size, type, or access permission levels established by the originating astronomical survey.
 
 To navigate, use the menu on the left and explore the different datasets organized according to usage options:
 
-- **Download** and **programmatic access** with [LSDB](https://lsdb.io/) (data in [HATS](https://hats.readthedocs.io/en/latest/) format)
-- **Query** in databases, through the [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/), or [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/) platforms
+- **Download** and **programmatic access** with [LSDB](lsdb/index.md) (data in [HATS](https://hats.readthedocs.io/en/latest/) format)
+- **Query** in [databases](database/index.md), through the [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/), or [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/) platforms
 - **Processing** in the HPC environment of data stored in the Lustre system, with access through the [Open OnDemand](https://ondemand.linea.org.br) platform
-- **Visualization** of catalog information overlaid on [HiPS](https://aladin.cds.unistra.fr/hips/) images
+- **Visualization** of catalog information overlaid on [HiPS](images/hips.md) images
 
 Below is a summary table of the main catalogs available for download or query through the different services:
 
@@ -56,15 +56,15 @@ Below is a summary table of the main catalogs available for download or query th
 
 ---
 
-## Images
+## [Images](images/index.md)
 
 Access to astronomical images is provided through different applications of the LIneA Science Platform, depending on the image type and the originating astronomical survey.
 
-- [HiPS](https://aladin.cds.unistra.fr/hips/) (Hierarchical Progressive Surveys) images: **global visualization** and **navigation** through the [Sky Viewer](https://skyviewer.org/) application, or for pointing to a pre-selected list of targets in the [Target Viewer](https://targetviewer.linea.org.br/).
+- [HiPS](images/hips.md) (Hierarchical Progressive Surveys) images: **global visualization** and **navigation** through the [Sky Viewer](https://skyviewer.org/) application, or for pointing to a pre-selected list of targets in the [Target Viewer](https://targetviewer.linea.org.br/).
 
-- Coadded [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) images: **download** of cutouts through the [Target Viewer](https://targetviewer.linea.org.br/), **programmatic access** via API through [Jupyter Hub](https://jupyter.linea.org.br/), or **processing** in the HPC environment, with access through the [Open OnDemand](https://ondemand.linea.org.br) platform.
+- Coadded [FITS](images/fits/index.md) (Flexible Image Transport System) images: **download** of cutouts through the [Target Viewer](https://targetviewer.linea.org.br/), **programmatic access** via API through [Jupyter Hub](https://jupyter.linea.org.br/), or **processing** in the HPC environment, with access through the [Open OnDemand](https://ondemand.linea.org.br) platform.
 
-- Single-exposure [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) images: **programmatic access** via API through [Jupyter Hub](https://jupyter.linea.org.br/), or **processing** in the HPC environment, with access through the [Open OnDemand](https://ondemand.linea.org.br) platform.
+- Single-exposure [FITS](images/fits/index.md) (Flexible Image Transport System) images: **programmatic access** via API through [Jupyter Hub](https://jupyter.linea.org.br/), or **processing** in the HPC environment, with access through the [Open OnDemand](https://ondemand.linea.org.br) platform.
 
 Below is a summary table of the main image datasets available for download or query through the different services:
 

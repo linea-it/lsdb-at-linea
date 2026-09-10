@@ -10,16 +10,16 @@ Para saber quais serviços estão disponíveis para cada perfil, consulte a [tab
 
 ---
 
-## Catálogos
+## [Catálogos](catalogs/index.md)
 
 O acesso a dados tabulares (catálogos) é realizado por meio de diferentes aplicações do [LIneA Science Platform (LSP)](https://scienceplatform.linea.org.br/lsp), conforme o tamanho, o tipo ou os níveis de permissão de acesso estabelecidos pelo levantamento astronômico de origem.
 
 Para navegar, utilize o menu à esquerda e explore os diferentes conjuntos de dados, organizados de acordo com as opções de uso:
 
-- **Download** e **acesso programático** com [LSDB](https://lsdb.io/) (dados no formato [HATS](https://hats.readthedocs.io/en/latest/))
-- **Consulta** em banco de dados, por meio das plataformas [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/) ou [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/)
+- **Download** e **acesso programático** com [LSDB](lsdb/index.md) (dados no formato [HATS](https://hats.readthedocs.io/en/latest/))
+- **Consulta** em [banco de dados](database/index.md), por meio das plataformas [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/) ou [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/)
 - **Processamento** no ambiente HPC de dados armazenados no sistema Lustre, com acesso pela plataforma [Open OnDemand](https://ondemand.linea.org.br)
-- **Visualização** de informações de catálogos sobrepostas a imagens [HiPS](https://aladin.cds.unistra.fr/hips/)
+- **Visualização** de informações de catálogos sobrepostas a imagens [HiPS](images/hips.md)
 
 Confira abaixo a tabela com o resumo dos principais catálogos disponíveis para download ou consulta por meio dos diferentes serviços:
 
@@ -57,15 +57,15 @@ Confira abaixo a tabela com o resumo dos principais catálogos disponíveis para
 
 ---
 
-## Imagens
+## [Imagens](images/index.md)
 
 O acesso às imagens astronômicas é realizado por meio de diferentes aplicações do LIneA Science Platform, conforme o tipo de imagem e o levantamento astronômico de origem.
 
-- Imagens [HiPS](https://aladin.cds.unistra.fr/hips/) (Hierarchical Progressive Surveys): **visualização global** e **navegação** pela aplicação [Sky Viewer](https://skyviewer.org/), ou para apontar para uma lista de alvos previamente selecionados no [Target Viewer](https://targetviewer.linea.org.br/).
+- Imagens [HiPS](images/hips.md) (Hierarchical Progressive Surveys): **visualização global** e **navegação** pela aplicação [Sky Viewer](https://skyviewer.org/), ou para apontar para uma lista de alvos previamente selecionados no [Target Viewer](https://targetviewer.linea.org.br/).
 
-- Imagens [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) coadicionadas: **download** de cutouts pelo [Target Viewer](https://targetviewer.linea.org.br/), **acesso programático** via API pelo [Jupyter Hub](https://jupyter.linea.org.br/) ou **processamento** no ambiente HPC, com acesso pela plataforma [Open OnDemand](https://ondemand.linea.org.br).
+- Imagens [FITS](images/fits/index.md) (Flexible Image Transport System) coadicionadas: **download** de cutouts pelo [Target Viewer](https://targetviewer.linea.org.br/), **acesso programático** via API pelo [Jupyter Hub](https://jupyter.linea.org.br/) ou **processamento** no ambiente HPC, com acesso pela plataforma [Open OnDemand](https://ondemand.linea.org.br).
 
-- Imagens [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) de exposição única: **acesso programático** via API pelo [Jupyter Hub](https://jupyter.linea.org.br/) ou **processamento** no ambiente HPC, com acesso pela plataforma [Open OnDemand](https://ondemand.linea.org.br).
+- Imagens [FITS](images/fits/index.md) (Flexible Image Transport System) de exposição única: **acesso programático** via API pelo [Jupyter Hub](https://jupyter.linea.org.br/) ou **processamento** no ambiente HPC, com acesso pela plataforma [Open OnDemand](https://ondemand.linea.org.br).
 
 Confira abaixo a tabela com o resumo dos principais conjuntos de imagens disponíveis para download ou consulta por meio dos diferentes serviços:
 

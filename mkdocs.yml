@@ -1,61 +1,61 @@
 # Top-level nav for the default language (pt)
 nav:
   - Início: pt/index.md
-  - LSDB Surveys:
-      - LSDB Surveys: pt/lsdb/index.md
-      - 2MASS: pt/lsdb/2mass.md
-      - DELVE DR2: pt/lsdb/delve_dr2.md
-      - DES: 
-          - DES DR2: pt/lsdb/des_dr2.md
-          - DES Y6 Gold: pt/lsdb/des_y6_gold.md
-      - DESI:
-          - DESI DR1 (z-catalog): pt/lsdb/desi_dr1_zcat.md
-      - eRASS1 Main: pt/lsdb/erosita_dr1_main.md
-      - Euclid Q1: pt/lsdb/euclid_q1.md
-      - Gaia: 
-          - Gaia DR3: pt/lsdb/gaia_dr3.md
-      - GALEX: pt/lsdb/galex.md  
-      - HSC:
-          - HSC PDR3 g: pt/lsdb/hsc_pdr3_g.md 
-          - HSC PDR3 r: pt/lsdb/hsc_pdr3_r.md 
-          - HSC PDR3 i: pt/lsdb/hsc_pdr3_i.md 
-          - HSC PDR3 z: pt/lsdb/hsc_pdr3_z.md 
-          - HSC PDR3 y: pt/lsdb/hsc_pdr3_y.md 
-      - LSST:
-        - LSST DP1: pt/lsdb/lsst_dp1.md
-        - LSST DP2: pt/lsdb/lsst_dp2.md
-#          - Rubin DP1 Object (Lite): pt/lsdb/rubin_dp1_object_lite.md 
-      - Pan-STARRS1:
-          - Pan-STARRS1 (objects): pt/lsdb/ps1_objects.md 
-          - Pan-STARRS1 (detection): pt/lsdb/ps1_detection.md
-      - SDSS DR7 Spectra: pt/lsdb/sdss_dr7_spectra.md 
-      - Skymapper:
-        - DR4: pt/lsdb/skymapper_dr4.md
-        - Photometry: pt/lsdb/skymapper_photometry.md
-      - TESS:
-        - Lightcurve: pt/lsdb/tess_lightcurve.md
-        - TIC: pt/lsdb/tess_tic.md 
-      - TNS: pt/lsdb/tns.md
-      - VSX: pt/lsdb/vsx.md            
-      - WISE:
-          - AllWISE: pt/lsdb/wise_allwise.md
-          - NEOWISE: pt/lsdb/wise_neowise.md
-      - ZTF: 
-          - ZTF DR14 Objects: pt/lsdb/ztf_dr14_objects.md
-          - ZTF DR14 Source: pt/lsdb/ztf_dr14_source.md
-          - ZTF DR23 Objects: pt/lsdb/ztf_dr23_objects.md
-          - ZTF DR23 Lightcurves: pt/lsdb/ztf_dr23_lightcurves.md
-          - ZTF DR24 Objects: pt/lsdb/ztf_dr24_objects.md
-          - ZTF DR24 Lightcurves: pt/lsdb/ztf_dr24_lightcurves.md
-  - Banco de Dados: pt/database/index.md
-  #     - 2MASS PSC: pt/database/two_mass_psc.md
-  #     - DES:
-  #         - DES DR2: pt/database/des_dr2.md
-  #         - DES Y6 Gold: pt/database/des_y6_gold.md 
-  #     - Gaia DR3: pt/database/gaia_dr3.md
-  #     - LSST:
-  #         - LSST DP0.2: pt/database/lsst_dp0_2.md 
-  #         - LSST DP1: pt/database/lsst_dp1.md      
+  - Catálogos:
+      - Catálogos: pt/catalogs/index.md
+      - LSDB Surveys:
+          - LSDB Surveys: pt/lsdb/index.md
+          - 2MASS: pt/lsdb/2mass.md
+          - DELVE DR2: pt/lsdb/delve_dr2.md
+          - DES: 
+              - DES DR2: pt/lsdb/des_dr2.md
+              - DES Y6 Gold: pt/lsdb/des_y6_gold.md
+          - DESI:
+              - DESI DR1 (z-catalog): pt/lsdb/desi_dr1_zcat.md
+          - eRASS1 Main: pt/lsdb/erosita_dr1_main.md
+          - Euclid Q1: pt/lsdb/euclid_q1.md
+          - Gaia: 
+              - Gaia DR3: pt/lsdb/gaia_dr3.md
+          - GALEX: pt/lsdb/galex.md  
+          - HSC:
+              - HSC PDR3 g: pt/lsdb/hsc_pdr3_g.md 
+              - HSC PDR3 r: pt/lsdb/hsc_pdr3_r.md 
+              - HSC PDR3 i: pt/lsdb/hsc_pdr3_i.md 
+              - HSC PDR3 z: pt/lsdb/hsc_pdr3_z.md 
+              - HSC PDR3 y: pt/lsdb/hsc_pdr3_y.md 
+          - LSST:
+            - LSST DP1: pt/lsdb/lsst_dp1.md
+            - LSST DP2: pt/lsdb/lsst_dp2.md
+#              - Rubin DP1 Object (Lite): pt/lsdb/rubin_dp1_object_lite.md 
+          - Pan-STARRS1:
+              - Pan-STARRS1 (objects): pt/lsdb/ps1_objects.md 
+              - Pan-STARRS1 (detection): pt/lsdb/ps1_detection.md
+          - SDSS DR7 Spectra: pt/lsdb/sdss_dr7_spectra.md 
+          - Skymapper:
+            - DR4: pt/lsdb/skymapper_dr4.md
+            - Photometry: pt/lsdb/skymapper_photometry.md
+          - TESS:
+            - Lightcurve: pt/lsdb/tess_lightcurve.md
+            - TIC: pt/lsdb/tess_tic.md 
+          - TNS: pt/lsdb/tns.md
+          - VSX: pt/lsdb/vsx.md            
+          - WISE:
+              - AllWISE: pt/lsdb/wise_allwise.md
+              - NEOWISE: pt/lsdb/wise_neowise.md
+          - ZTF: 
+              - ZTF DR14 Objects: pt/lsdb/ztf_dr14_objects.md
+              - ZTF DR14 Source: pt/lsdb/ztf_dr14_source.md
+              - ZTF DR23 Objects: pt/lsdb/ztf_dr23_objects.md
+              - ZTF DR23 Lightcurves: pt/lsdb/ztf_dr23_lightcurves.md
+              - ZTF DR24 Objects: pt/lsdb/ztf_dr24_objects.md
+              - ZTF DR24 Lightcurves: pt/lsdb/ztf_dr24_lightcurves.md
+      - Banco de Dados: pt/database/index.md
+  - Imagens:
+      - Imagens: pt/images/index.md
+      - HiPS: pt/images/hips.md
+      - FITS:
+          - FITS: pt/images/fits/index.md
+          - LSST DP1: pt/images/fits/lsst_dp1.md
   - HPC: pt/hpc/index.md 
   #     - DES:
   #         - DES DR2: pt/hpc/des_dr2.md
@@ -202,61 +202,61 @@ plugins:
           site_name: "Data"
           nav:
             - Home: en/index.md
-            - LSDB Surveys:
-                - LSDB Surveys: en/lsdb/index.md
-                - 2MASS: en/lsdb/2mass.md
-                - DELVE DR2: en/lsdb/delve_dr2.md
-                - DES: 
-                    - DES DR2: en/lsdb/des_dr2.md
-                    - DES Y6 Gold: en/lsdb/des_y6_gold.md
-                - DESI:
-                    - DESI DR1 (z-catalog): en/lsdb/desi_dr1_zcat.md           
-                - eRASS1 Main: en/lsdb/erosita_dr1_main.md
-                - Euclid Q1: en/lsdb/euclid_q1.md
-                - Gaia: 
-                    - Gaia DR3: en/lsdb/gaia_dr3.md
-                - GALEX: en/lsdb/galex.md  
-                - HSC:
-                    - HSC PDR3 g: en/lsdb/hsc_pdr3_g.md 
-                    - HSC PDR3 r: en/lsdb/hsc_pdr3_r.md 
-                    - HSC PDR3 i: en/lsdb/hsc_pdr3_i.md 
-                    - HSC PDR3 z: en/lsdb/hsc_pdr3_z.md 
-                    - HSC PDR3 y: en/lsdb/hsc_pdr3_y.md
-                - LSST:
-                    - LSST DP1: en/lsdb/lsst_dp1.md
-                    - LSST DP2: en/lsdb/lsst_dp2.md    
-                    #- Rubin DP1 Object (Lite): en/lsdb/rubin_dp1_object_lite.md
-                - Pan-STARRS1:
-                    - Pan-STARRS1 (objects): en/lsdb/ps1_objects.md 
-                    - Pan-STARRS1 (detection): en/lsdb/ps1_detection.md                   
-                - SDSS DR7 Spectra: en/lsdb/sdss_dr7_spectra.md
-                - Skymapper:
-                  - DR4: en/lsdb/skymapper_dr4.md
-                  - Photometry: en/lsdb/skymapper_photometry.md
-                - TESS:
-                  - Lightcurve: en/lsdb/tess_lightcurve.md
-                  - TIC: en/lsdb/tess_tic.md 
-                - TNS: en/lsdb/tns.md
-                - VSX: en/lsdb/vsx.md            
-                - WISE:
-                    - AllWISE: en/lsdb/wise_allwise.md
-                    - NEOWISE: en/lsdb/wise_neowise.md
-                - ZTF: 
-                    - ZTF DR14 Objects: en/lsdb/ztf_dr14_objects.md
-                    - ZTF DR14 Source: en/lsdb/ztf_dr14_source.md
-                    - ZTF DR23 Objects: en/lsdb/ztf_dr23_objects.md
-                    - ZTF DR23 Lightcurves: en/lsdb/ztf_dr23_lightcurves.md
-                    - ZTF DR24 Objects: en/lsdb/ztf_dr24_objects.md
-                    - ZTF DR24 Lightcurves: en/lsdb/ztf_dr24_lightcurves.md
-            - Database: en/database/index.md
-            #     - 2MASS PSC: en/database/two_mass_psc.md
-            #     - DES:
-            #         - DES DR2: en/database/des_dr2.md
-            #         - DES Y6 Gold: en/database/des_y6_gold.md 
-            #     - Gaia DR3: en/database/gaia_dr3.md
-            #     - LSST:
-            #         - LSST DP0.2: en/database/lsst_dp0_2.md 
-            #         - LSST DP1: en/database/lsst_dp1.md
+            - Catalogs:
+                - Catalogs: en/catalogs/index.md
+                - LSDB Surveys:
+                    - LSDB Surveys: en/lsdb/index.md
+                    - 2MASS: en/lsdb/2mass.md
+                    - DELVE DR2: en/lsdb/delve_dr2.md
+                    - DES: 
+                        - DES DR2: en/lsdb/des_dr2.md
+                        - DES Y6 Gold: en/lsdb/des_y6_gold.md
+                    - DESI:
+                        - DESI DR1 (z-catalog): en/lsdb/desi_dr1_zcat.md           
+                    - eRASS1 Main: en/lsdb/erosita_dr1_main.md
+                    - Euclid Q1: en/lsdb/euclid_q1.md
+                    - Gaia: 
+                        - Gaia DR3: en/lsdb/gaia_dr3.md
+                    - GALEX: en/lsdb/galex.md  
+                    - HSC:
+                        - HSC PDR3 g: en/lsdb/hsc_pdr3_g.md 
+                        - HSC PDR3 r: en/lsdb/hsc_pdr3_r.md 
+                        - HSC PDR3 i: en/lsdb/hsc_pdr3_i.md 
+                        - HSC PDR3 z: en/lsdb/hsc_pdr3_z.md 
+                        - HSC PDR3 y: en/lsdb/hsc_pdr3_y.md
+                    - LSST:
+                        - LSST DP1: en/lsdb/lsst_dp1.md
+                        - LSST DP2: en/lsdb/lsst_dp2.md    
+                        #- Rubin DP1 Object (Lite): en/lsdb/rubin_dp1_object_lite.md
+                    - Pan-STARRS1:
+                        - Pan-STARRS1 (objects): en/lsdb/ps1_objects.md 
+                        - Pan-STARRS1 (detection): en/lsdb/ps1_detection.md                   
+                    - SDSS DR7 Spectra: en/lsdb/sdss_dr7_spectra.md
+                    - Skymapper:
+                      - DR4: en/lsdb/skymapper_dr4.md
+                      - Photometry: en/lsdb/skymapper_photometry.md
+                    - TESS:
+                      - Lightcurve: en/lsdb/tess_lightcurve.md
+                      - TIC: en/lsdb/tess_tic.md 
+                    - TNS: en/lsdb/tns.md
+                    - VSX: en/lsdb/vsx.md            
+                    - WISE:
+                        - AllWISE: en/lsdb/wise_allwise.md
+                        - NEOWISE: en/lsdb/wise_neowise.md
+                    - ZTF: 
+                        - ZTF DR14 Objects: en/lsdb/ztf_dr14_objects.md
+                        - ZTF DR14 Source: en/lsdb/ztf_dr14_source.md
+                        - ZTF DR23 Objects: en/lsdb/ztf_dr23_objects.md
+                        - ZTF DR23 Lightcurves: en/lsdb/ztf_dr23_lightcurves.md
+                        - ZTF DR24 Objects: en/lsdb/ztf_dr24_objects.md
+                        - ZTF DR24 Lightcurves: en/lsdb/ztf_dr24_lightcurves.md
+                - Database: en/database/index.md
+            - Images:
+                - Images: en/images/index.md
+                - HiPS: en/images/hips.md
+                - FITS:
+                    - FITS: en/images/fits/index.md
+                    - LSST DP1: en/images/fits/lsst_dp1.md
             - HPC: en/hpc/index.md
             #     - DES:
             #         - DES DR2: en/hpc/des_dr2.md
@@ -280,60 +280,60 @@ plugins:
           build: true
           nav:
             - Inicio: es/index.md
-            - LSDB Surveys:
-                - LSDB Surveys: es/lsdb/index.md
-                - 2MASS: es/lsdb/2mass.md
-                - DELVE DR2: es/lsdb/delve_dr2.md
-                - DES: 
-                    - DES DR2: es/lsdb/des_dr2.md
-                    - DES Y6 Gold: es/lsdb/des_y6_gold.md
-                - DESI:
-                    - DESI DR1 (z-catalog): es/lsdb/desi_dr1_zcat.md
-                - eRASS1 Main: es/lsdb/erosita_dr1_main.md
-                - Euclid Q1: es/lsdb/euclid_q1.md
-                - Gaia: 
-                    - Gaia DR3: es/lsdb/gaia_dr3.md
-                - GALEX: es/lsdb/galex.md  
-                - HSC:
-                    - HSC PDR3 g: es/lsdb/hsc_pdr3_g.md 
-                    - HSC PDR3 r: es/lsdb/hsc_pdr3_r.md 
-                    - HSC PDR3 i: es/lsdb/hsc_pdr3_i.md 
-                    - HSC PDR3 z: es/lsdb/hsc_pdr3_z.md 
-                    - HSC PDR3 y: es/lsdb/hsc_pdr3_y.md
-                - LSST:
-                    - LSST DP1: es/lsdb/lsst_dp1.md
-                    - LSST DP2: es/lsdb/lsst_dp2.md
-                - Pan-STARRS1:
-                    - Pan-STARRS1 (objects): es/lsdb/ps1_objects.md 
-                    - Pan-STARRS1 (detection): es/lsdb/ps1_detection.md                    
-                - SDSS DR7 Spectra: es/lsdb/sdss_dr7_spectra.md
-                - Skymapper:
-                  - DR4: es/lsdb/skymapper_dr4.md
-                  - Photometry: es/lsdb/skymapper_photometry.md
-                - TESS:
-                  - Lightcurve: es/lsdb/tess_lightcurve.md
-                  - TIC: es/lsdb/tess_tic.md 
-                - TNS: es/lsdb/tns.md
-                - VSX: es/lsdb/vsx.md            
-                - WISE:
-                    - AllWISE: es/lsdb/wise_allwise.md
-                    - NEOWISE: es/lsdb/wise_neowise.md
-                - ZTF: 
-                    - ZTF DR14 Objects: es/lsdb/ztf_dr14_objects.md
-                    - ZTF DR14 Source: es/lsdb/ztf_dr14_source.md
-                    - ZTF DR23 Objects: es/lsdb/ztf_dr23_objects.md
-                    - ZTF DR23 Lightcurves: es/lsdb/ztf_dr23_lightcurves.md
-                    - ZTF DR24 Objects: es/lsdb/ztf_dr24_objects.md
-                    - ZTF DR24 Lightcurves: es/lsdb/ztf_dr24_lightcurves.md
-            - Banco de Dados: es/database/index.md
-            #     - 2MASS PSC: es/database/two_mass_psc.md
-            #     - DES:
-            #         - DES DR2: es/database/des_dr2.md
-            #         - DES Y6 Gold: es/database/des_y6_gold.md 
-            #     - Gaia DR3: es/database/gaia_dr3.md
-            #     - LSST:
-            #         - LSST DP0.2: es/database/lsst_dp0_2.md 
-            #         - LSST DP1: es/database/lsst_dp1.md
+            - Catálogos:
+                - Catálogos: es/catalogs/index.md
+                - LSDB Surveys:
+                    - LSDB Surveys: es/lsdb/index.md
+                    - 2MASS: es/lsdb/2mass.md
+                    - DELVE DR2: es/lsdb/delve_dr2.md
+                    - DES: 
+                        - DES DR2: es/lsdb/des_dr2.md
+                        - DES Y6 Gold: es/lsdb/des_y6_gold.md
+                    - DESI:
+                        - DESI DR1 (z-catalog): es/lsdb/desi_dr1_zcat.md
+                    - eRASS1 Main: es/lsdb/erosita_dr1_main.md
+                    - Euclid Q1: es/lsdb/euclid_q1.md
+                    - Gaia: 
+                        - Gaia DR3: es/lsdb/gaia_dr3.md
+                    - GALEX: es/lsdb/galex.md  
+                    - HSC:
+                        - HSC PDR3 g: es/lsdb/hsc_pdr3_g.md 
+                        - HSC PDR3 r: es/lsdb/hsc_pdr3_r.md 
+                        - HSC PDR3 i: es/lsdb/hsc_pdr3_i.md 
+                        - HSC PDR3 z: es/lsdb/hsc_pdr3_z.md 
+                        - HSC PDR3 y: es/lsdb/hsc_pdr3_y.md
+                    - LSST:
+                        - LSST DP1: es/lsdb/lsst_dp1.md
+                        - LSST DP2: es/lsdb/lsst_dp2.md
+                    - Pan-STARRS1:
+                        - Pan-STARRS1 (objects): es/lsdb/ps1_objects.md 
+                        - Pan-STARRS1 (detection): es/lsdb/ps1_detection.md                    
+                    - SDSS DR7 Spectra: es/lsdb/sdss_dr7_spectra.md
+                    - Skymapper:
+                      - DR4: es/lsdb/skymapper_dr4.md
+                      - Photometry: es/lsdb/skymapper_photometry.md
+                    - TESS:
+                      - Lightcurve: es/lsdb/tess_lightcurve.md
+                      - TIC: es/lsdb/tess_tic.md 
+                    - TNS: es/lsdb/tns.md
+                    - VSX: es/lsdb/vsx.md            
+                    - WISE:
+                        - AllWISE: es/lsdb/wise_allwise.md
+                        - NEOWISE: es/lsdb/wise_neowise.md
+                    - ZTF: 
+                        - ZTF DR14 Objects: es/lsdb/ztf_dr14_objects.md
+                        - ZTF DR14 Source: es/lsdb/ztf_dr14_source.md
+                        - ZTF DR23 Objects: es/lsdb/ztf_dr23_objects.md
+                        - ZTF DR23 Lightcurves: es/lsdb/ztf_dr23_lightcurves.md
+                        - ZTF DR24 Objects: es/lsdb/ztf_dr24_objects.md
+                        - ZTF DR24 Lightcurves: es/lsdb/ztf_dr24_lightcurves.md
+                - Base de datos: es/database/index.md
+            - Imágenes:
+                - Imágenes: es/images/index.md
+                - HiPS: es/images/hips.md
+                - FITS:
+                    - FITS: es/images/fits/index.md
+                    - LSST DP1: es/images/fits/lsst_dp1.md
             - HPC: es/hpc/index.md
             #     - DES:
             #         - DES DR2: es/hpc/des_dr2.md
