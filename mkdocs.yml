@@ -56,7 +56,6 @@ nav:
               - DES DR2: pt/hpc/des_dr2.md
               - DES Y6 Gold: pt/hpc/des_y6_gold.md
           - LSST:
-              - LSST DP0.1: pt/hpc/lsst_dp0.1.md
               - LSST DP0.2: pt/hpc/lsst_dp0.2.md
               - LSST DP1: pt/hpc/lsst_dp1.md
               - LSST DP2: pt/hpc/lsst_dp2.md
@@ -260,7 +259,6 @@ plugins:
                         - DES DR2: en/hpc/des_dr2.md
                         - DES Y6 Gold: en/hpc/des_y6_gold.md
                     - LSST:
-                        - LSST DP0.1: en/hpc/lsst_dp0.1.md
                         - LSST DP0.2: en/hpc/lsst_dp0.2.md
                         - LSST DP1: en/hpc/lsst_dp1.md
                         - LSST DP2: en/hpc/lsst_dp2.md
@@ -340,7 +338,6 @@ plugins:
                         - DES DR2: es/hpc/des_dr2.md
                         - DES Y6 Gold: es/hpc/des_y6_gold.md
                     - LSST:
-                        - LSST DP0.1: es/hpc/lsst_dp0.1.md
                         - LSST DP0.2: es/hpc/lsst_dp0.2.md
                         - LSST DP1: es/hpc/lsst_dp1.md
                         - LSST DP2: es/hpc/lsst_dp2.md

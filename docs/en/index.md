@@ -4,7 +4,7 @@ Welcome to the LIneA data documentation page. Here you will find information abo
 
 
 ### User Profiles and Access Levels
-LIneA offers different user profiles, each with specific access levels to the available data and services. To find out which services are available for each profile, please refer to the [table](https://docs.linea.org.br/en/sci-platforms/index.html#access-to-linea-services-and-platforms) available on the information page about the scientific platforms on the [user documentation](https://docs.linea.org.br/en/) site.
+LIneA offers different user profiles, each with specific access levels to available data and services. Embargoed data are accessible only to members with data rights within the respective scientific collaborations. To find out which services are available for each profile, please refer to the [table](https://docs.linea.org.br/en/sci-platforms/index.html#access-to-linea-services-and-platforms) available on the information page about the scientific platforms on the [user documentation](https://docs.linea.org.br/en/) site.
 
 
 ---

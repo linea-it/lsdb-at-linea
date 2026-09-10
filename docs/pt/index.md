@@ -4,8 +4,7 @@ Bem-vindo à página de documentação de dados do LIneA. Aqui você encontra in
 
 
 ### Perfis de usuário e níveis de acesso 
-O LIneA oferece diferentes perfis de usuário, cada um com níveis de acesso específicos aos dados e serviços disponíveis. 
-Para saber quais serviços estão disponíveis para cada perfil, consulte a [tabela](https://docs.linea.org.br/sci-platforms/index.html#acesso-aos-servicos-e-plataformas-linea) disponível na página de informações sobre as plataformas científicas no site de [documentação para usuários](https://docs.linea.org.br). 
+O LIneA oferece diferentes perfis de usuário, cada um com níveis de acesso específicos aos dados e serviços disponíveis. Dados sob embargo são acessíveis apenas para os membros com _data rights_ nas respectivas colaborações científicas. Para saber quais serviços estão disponíveis para cada perfil, consulte a [tabela](https://docs.linea.org.br/sci-platforms/index.html#acesso-aos-servicos-e-plataformas-linea) disponível na página de informações sobre as plataformas científicas no site de [documentação para usuários](https://docs.linea.org.br).  
 
 
 ---
