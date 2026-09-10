@@ -332,8 +332,8 @@ plugins:
                         - ZTF DR24 Objects: es/lsdb/ztf_dr24_objects.md
                         - ZTF DR24 Lightcurves: es/lsdb/ztf_dr24_lightcurves.md
                 - Base de datos: es/database/index.md
-                - HPC Environment:
-                    - HPC Environment: es/hpc/index.md
+                - Entorno HPC:
+                    - Entorno HPC: es/hpc/index.md
                     - DES:
                         - DES DR2: es/hpc/des_dr2.md
                         - DES Y6 Gold: es/hpc/des_y6_gold.md
