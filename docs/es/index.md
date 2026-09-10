@@ -10,16 +10,16 @@ LIneA ofrece diferentes perfiles de usuario, cada uno con niveles de acceso espe
 
 ---
 
-## Catálogos
+## [Catálogos](catalogs/index.md)
 
 El acceso a datos tabulares (catálogos) se realiza a través de diferentes aplicaciones de la [LIneA Science Platform (LSP)](https://scienceplatform.linea.org.br/lsp), según el tamaño, el tipo o los niveles de permiso de acceso establecidos por el estudio astronómico de origen.
 
 Para navegar, utilice el menú de la izquierda y explore los diferentes conjuntos de datos organizados según las opciones de uso:
 
-- **Descarga** y **acceso programático** con [LSDB](https://lsdb.io/) (datos en formato [HATS](https://hats.readthedocs.io/en/latest/))
-- **Consulta** en base de datos, a través de las plataformas [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/) o [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/)
+- **Descarga** y **acceso programático** con [LSDB](lsdb/index.md) (datos en formato [HATS](https://hats.readthedocs.io/en/latest/))
+- **Consulta** en [base de datos](database/index.md), a través de las plataformas [User Query](https://userquery.linea.org.br/), [Jupyter Hub](https://jupyter.linea.org.br/) o [TAP Service](https://userquery.linea.org.br/cms/services/scripted-access/)
 - **Procesamiento** en el entorno HPC de datos almacenados en el sistema Lustre, con acceso a través de la plataforma [Open OnDemand](https://ondemand.linea.org.br)
-- **Visualización** de información de catálogos superpuesta a imágenes [HiPS](https://aladin.cds.unistra.fr/hips/)
+- **Visualización** de información de catálogos superpuesta a imágenes [HiPS](images/hips.md)
 
 A continuación se muestra una tabla resumen de los principales catálogos disponibles para descarga o consulta a través de los diferentes servicios:
 
@@ -57,15 +57,15 @@ A continuación se muestra una tabla resumen de los principales catálogos dispo
 
 ---
 
-## Imágenes
+## [Imágenes](images/index.md)
 
 El acceso a las imágenes astronómicas se realiza a través de diferentes aplicaciones de la LIneA Science Platform, según el tipo de imagen y el estudio astronómico de origen.
 
-- Imágenes [HiPS](https://aladin.cds.unistra.fr/hips/) (Hierarchical Progressive Surveys): **visualización global** y **navegación** a través de la aplicación [Sky Viewer](https://skyviewer.org/), o para apuntar a una lista de objetivos preseleccionados en el [Target Viewer](https://targetviewer.linea.org.br/).
+- Imágenes [HiPS](images/hips.md) (Hierarchical Progressive Surveys): **visualización global** y **navegación** a través de la aplicación [Sky Viewer](https://skyviewer.org/), o para apuntar a una lista de objetivos preseleccionados en el [Target Viewer](https://targetviewer.linea.org.br/).
 
-- Imágenes [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) coadicionadas: **descarga** de cutouts a través del [Target Viewer](https://targetviewer.linea.org.br/), **acceso programático** vía API a través de [Jupyter Hub](https://jupyter.linea.org.br/) o **procesamiento** en el entorno HPC, con acceso a través de la plataforma [Open OnDemand](https://ondemand.linea.org.br).
+- Imágenes [FITS](images/fits/index.md) (Flexible Image Transport System) coadicionadas: **descarga** de cutouts a través del [Target Viewer](https://targetviewer.linea.org.br/), **acceso programático** vía API a través de [Jupyter Hub](https://jupyter.linea.org.br/) o **procesamiento** en el entorno HPC, con acceso a través de la plataforma [Open OnDemand](https://ondemand.linea.org.br).
 
-- Imágenes [FITS](https://fits.gsfc.nasa.gov/) (Flexible Image Transport System) de exposición única: **acceso programático** vía API a través de [Jupyter Hub](https://jupyter.linea.org.br/) o **procesamiento** en el entorno HPC, con acceso a través de la plataforma [Open OnDemand](https://ondemand.linea.org.br).
+- Imágenes [FITS](images/fits/index.md) (Flexible Image Transport System) de exposición única: **acceso programático** vía API a través de [Jupyter Hub](https://jupyter.linea.org.br/) o **procesamiento** en el entorno HPC, con acceso a través de la plataforma [Open OnDemand](https://ondemand.linea.org.br).
 
 A continuación se muestra una tabla resumen de los principales conjuntos de imágenes disponibles para descarga o consulta a través de los diferentes servicios:
 
