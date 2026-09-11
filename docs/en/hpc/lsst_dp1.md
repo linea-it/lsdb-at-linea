@@ -80,7 +80,7 @@ Path: `$DATA/lsst/dp1/primary/catalogs/object/`
 
 <div class="button-container">
 <a href="https://sdm-schemas.lsst.io/dp1.html#Object" class="button-link">Catalog Schema</a>
-<a href="./rubin_dp1_QAs.html" class="button-link"> QA notebook</a>
+<a href="./rubin_dp1_qa.html" class="button-link"> QA notebook</a>
 </div>
 
 
@@ -105,7 +105,7 @@ Path: `$DATA/lsst/dp1/primary/catalogs/ss_object/`
 
 <div class="button-container">
 <a href="https://sdm-schemas.lsst.io/dp1.html#SSObject" class="button-link">Catalog Schema</a>
-<a href="./rubin_dp1_QAs.html" class="button-link"> QA notebook</a>
+<a href="./rubin_dp1_qa.html" class="button-link"> QA notebook</a>
 </div>
 
 
@@ -128,6 +128,6 @@ Path: `$DATA/lsst/dp1/primary/catalogs/ss_source/`
 
 <div class="button-container">
 <a href="https://sdm-schemas.lsst.io/dp1.html#SSSource" class="button-link">Catalog Schema</a>
-<a href="./rubin_dp1_QAs.html" class="button-link"> QA notebook</a>
+<a href="./rubin_dp1_qa.html" class="button-link"> QA notebook</a>
 </div>
 

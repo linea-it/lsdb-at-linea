@@ -77,7 +77,7 @@ Ruta: `$DATA/lsst/dp1/primary/catalogs/object/`
 
 <a href="[https://sdm-schemas.lsst.io/dp1.html#Object](https://sdm-schemas.lsst.io/dp1.html#Object)" class="button-link">Esquema del catálogo</a>
 
-<a href="./rubin\_dp1\_QAs.html" class="button-link">Notebook de QA</a>
+<a href="../../en/hpc/rubin_dp1_qa.html" class="button-link">Notebook de QA</a>
 
 </div>
 
@@ -99,7 +99,7 @@ Ruta: `$DATA/lsst/dp1/primary/catalogs/ss_object/`
 
 <a href="[https://sdm-schemas.lsst.io/dp1.html#SSObject](https://sdm-schemas.lsst.io/dp1.html#SSObject)" class="button-link">Esquema del catálogo</a>
 
-<a href="./rubin\_dp1\_QAs.html" class="button-link">Notebook de QA</a>
+<a href="../../en/hpc/rubin_dp1_qa.html" class="button-link">Notebook de QA</a>
 
 </div>
 
@@ -121,6 +121,6 @@ Ruta: `$DATA/lsst/dp1/primary/catalogs/ss_source/`
 
 <a href="[https://sdm-schemas.lsst.io/dp1.html#SSSource](https://sdm-schemas.lsst.io/dp1.html#SSSource)" class="button-link">Esquema del catálogo</a>
 
-<a href="./rubin\_dp1\_QAs.html" class="button-link">Notebook de QA</a>
+<a href="../../en/hpc/rubin_dp1_qa.html" class="button-link">Notebook de QA</a>
 
 </div>
